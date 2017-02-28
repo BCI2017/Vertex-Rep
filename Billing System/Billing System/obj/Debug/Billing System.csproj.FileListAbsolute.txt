@@ -22,3 +22,27 @@ c:\users\administrator.tareq.000\documents\visual studio 2010\Projects\Billing S
 c:\users\administrator.tareq.000\documents\visual studio 2010\Projects\Billing System\Billing System\obj\Debug\Billing System.csprojResolveAssemblyReference.cache
 c:\users\administrator.tareq.000\documents\visual studio 2010\Projects\Billing System\Billing System\obj\Debug\Billing System.dll
 c:\users\administrator.tareq.000\documents\visual studio 2010\Projects\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Billing System.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Billing System.pdb
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Newtonsoft.Json.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Net.Http.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.Helpers.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.Mvc.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.Razor.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.WebPages.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Newtonsoft.Json.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Net.Http.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.Helpers.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.Mvc.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.Razor.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.WebPages.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\obj\Debug\Billing System.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\obj\Debug\Billing System.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\obj\Debug\Billing System.pdb
