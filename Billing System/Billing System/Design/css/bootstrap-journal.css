@@ -1935,11 +1935,11 @@ table .span24 {
   border-right: 4px solid transparent;
   border-left: 4px solid transparent;
   content: "";
-  opacity: 0.3;
+  opacity: 5;
   filter: alpha(opacity=30);
 }
 .dropdown .caret {
-  margin-top: 8px;
+  margin-top: 0px;
   margin-left: 2px;
 }
 .dropdown:hover .caret,
@@ -1965,7 +1965,7 @@ table .span24 {
   *border-bottom-width: 2px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
-  border-radius: 5px;
+  border-radius: 10px;
   -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
