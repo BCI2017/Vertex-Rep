@@ -24,12 +24,32 @@
 	<link id="bs-css" href="~/Design/css/bootstrap-cerulean.css" rel="stylesheet">
 	<style type="text/css">
 	  body {
-		padding-bottom: 40px;
+		padding-bottom: 0px;
 		background-image: url("Design/img/login_background.jpg");
 	  }
 	  .sidebar-nav {
-		padding: 9px 0;
+		padding: 0px 0;
 	  }
+	  .mainlogin{
+	      width:100% auto;
+	      height:60px;
+	      margin-top:0px;
+	      margin-bottom: 0px;
+	      padding-top: 20px;
+	      padding-bottom: 20px;
+	      padding-left: 20px;
+	      padding-right: 20px;
+	  }
+	  
+	  .myLogo{
+	      margin-top:0px;
+	      margin-bottom: 100px;
+	       padding-top: 20px;
+
+	      
+	  }
+	      
+	      
 	</style>
     <link href="~/Design/css/bootstrap-responsive.css" rel="stylesheet" />
 	<link href="~/Design/css/charisma-app.css" rel="stylesheet">
@@ -59,15 +79,23 @@
 </head>
 
 <body>
+<div class="container-fluid">
+<div class="row-fluid"> 
+<div class="navbar">
+<div class="navbar-inner mainlogin">
+<img class="myLogo" src="~/Design/img/logo.png" />
+</div>
+
+</div>
+</div>
+</div>
 		<div class="container-fluid">
-		<div class="row-fluid">
-		
+		<div class="row-fluid">          
 			<div class="row-fluid">
-				<div class="span12 center login-header">
+				<div class="span12 center login-header">       
 					<h2>Vertex Billing System</h2>
 				</div><!--/span-->
-			</div><!--/row-->
-			
+			</div><!--/row-->			
 			<div class="row-fluid">
 				<div class="well span5 center login-box">
                     @if (TempData["Message"] != null)

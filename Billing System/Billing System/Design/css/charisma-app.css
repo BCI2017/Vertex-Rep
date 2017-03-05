@@ -298,14 +298,25 @@ border-radius:14px;
 }
 footer{
 clear:both;
+background-color:#ebebf4;
+color: #575960;
+height:30px;
+padding-top:20px;
+padding-bottom:10px;
+border-radius:1px;
+-webkit-border-radius:1px;
+-moz-border-radius:1px;
 }
+
 footer .pull-right{
 float:right;
 margin-right:10px;
+color: #575960;
 }
 footer .pull-left{
 float:left;
 margin-left:10px;
+color: #575960;
 }
 .docs-input-sizes select, .docs-input-sizes input[type="text"] {
 display: block;
@@ -333,13 +344,14 @@ height:0px;
 .sidebar-nav{
 min-height:0;
 box-shadow: 0 0 10px #BDBDBD;
--webkit-box-shadow: 0 0 10px #BDBDBD;
--moz-box-shadow: 0 0 10px #BDBDBD;
-border-radius: 5px;
--webkit-border-radius: 5px;
--moz-border-radius: 5px;
+-webkit-box-shadow: 0 0 15px #BDBDBD;
+-moz-box-shadow: 0 0 15px #BDBDBD;
+border-radius: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
 margin-bottom: 0;
 padding-bottom:0;
+border-color:#484851;
 }
 .sidebar-nav > ul > li:not(.nav-header){
 margin-right:-2px;
@@ -389,9 +401,9 @@ margin-bottom:0;
 margin-left:10px;
 }
 .navbar-inner{
-border-radius:0 0 10px 10px;
--webkit-border-radius:0 0 10px 10px;
--moz-border-radius:0 0 10px 10px;
+border-radius:0 0 0px 0px;
+-webkit-border-radius:0 0 3px 3px;
+-moz-border-radius:0 0 3px 3px;
 padding-top:5px; 
 padding-bottom:5px; 
 }
