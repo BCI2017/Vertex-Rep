@@ -46,3 +46,23 @@ C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing Syste
 C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\obj\Debug\Billing System.csprojResolveAssemblyReference.cache
 C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\obj\Debug\Billing System.dll
 C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Antlr3.Runtime.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\EntityFramework.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\WebGrease.dll
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\EntityFramework.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator.TAREQ.000\Desktop\Vertex-Rep\Billing System\Billing System\bin\Microsoft.Web.WebPages.OAuth.xml

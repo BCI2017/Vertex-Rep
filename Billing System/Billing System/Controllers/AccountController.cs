@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-//using StudentsCol.Models;
 using System.Web.Security;
 using Billing_System;
+using DotNetOpenAuth.AspNet;
+using Microsoft.Web.WebPages.OAuth;
+
 
 namespace StudentsCol.Controllers
 {
@@ -50,9 +52,11 @@ namespace StudentsCol.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Logout()
-        {
+        {          
             FormsAuthentication.SignOut();
+            Session.Abandon();
             return RedirectToAction("Login");
         }
 

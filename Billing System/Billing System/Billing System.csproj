@@ -35,7 +35,35 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.AspNet">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\DotNetOpenAuth.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.Core">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\DotNetOpenAuth.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\DotNetOpenAuth.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth.Consumer">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\DotNetOpenAuth.OAuth.Consumer.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\DotNetOpenAuth.OpenId.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId.RelyingParty">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\DotNetOpenAuth.OpenId.RelyingParty.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Web.WebPages.OAuth, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Entity" />
@@ -105,6 +133,15 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
+    <Reference Include="WebGrease">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="WebMatrix.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\WebMatrix.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="WebMatrix.WebData, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2010\Projects\MvcApplication2\MvcApplication2\bin\WebMatrix.WebData.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\AccountController.cs" />
@@ -153,6 +190,7 @@
     <Content Include="Design\css\jquery.noty.css" />
     <Content Include="Design\css\noty_theme_default.css" />
     <Content Include="Design\css\opa-icons.css" />
+    <Content Include="Design\css\SideBar.css" />
     <Content Include="Design\css\uniform.default.css" />
     <Content Include="Design\css\uploadify.css" />
     <Content Include="Design\doc\assets\images\html_structure.png" />
@@ -420,7 +458,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>26361</DevelopmentServerPort>
+          <DevelopmentServerPort>61758</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>
